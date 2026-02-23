@@ -10,10 +10,10 @@
     name: nginx
     state: present
 
-- name: Create custom index.html
+- name: Copying custom index.html to server
   copy:
-    file: index.html
-    dest: /var/www/html/index.html
+    src: index.html
+    dest: /home/ubuntu/Desktop
     mode: '0644'
   notify: restart nginx
 
