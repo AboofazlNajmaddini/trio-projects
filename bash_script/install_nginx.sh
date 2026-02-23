@@ -81,7 +81,7 @@ if service nginx status > /dev/null 2>&1; then
     echo "Nginx is RUNNING"
     
     echo ""
-    echo "🌐 Port 80 check:"
+    echo "Port 80 check:"
     if ss -tlnp 2>/dev/null | grep -q ":80"; then
         echo "Port 80 is OPEN"
         ss -tlnp 2>/dev/null | head -3
