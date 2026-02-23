@@ -1,0 +1,12 @@
+---
+- name: Install and configure ansible on VM
+  hosts: ubuntu
+  
+  roles:
+    - ansible_installer
+
+- name: Install and configure nginx on VM
+  hosts: ubuntu
+  
+  roles:
+    - nginx

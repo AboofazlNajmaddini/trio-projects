@@ -1,0 +1,16 @@
+---
+# tasks file for ansible_installer
+- name: Update apt cache
+  apt:
+    update_cache: yes
+    cache_valid_time: 3600
+
+- name: Install ansible
+  apt:
+    name: ansible
+    state: present
+- name: Ensure nginx is running
+  service:
+    name: nginx
+    state: started
+    enabled: yes
