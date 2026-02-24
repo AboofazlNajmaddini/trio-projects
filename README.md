@@ -1,29 +1,19 @@
-# Three DevOps Mini-Projects
-
-<div dir="rtl">
-
-## سه مینی پروژه دواپس
-
-این مخزن شامل سه پروژه کوچک عملی برای آشنایی با مفاهیم پایه‌ای دواپس و ابزارهای رایج شامل Bash اسکریپت‌نویسی، Docker و Ansible است.
-
-</div>
-
 ---
 ## English
 
-### Project 1: Bash Script for System Monitoring and Nginx Setup
+### Bash Script for System Monitoring and Nginx Setup
 
 A comprehensive Bash script that performs system monitoring and automates Nginx installation and configuration.
 
 ---
 
-### Project 2: Docker and Docker Compose Implementation
+### Docker and Docker Compose Implementation
 
 Containerization project demonstrating Docker fundamentals and multi-service orchestration.
 
 ---
 
-### Project 3: Ansible Configuration Management
+### Ansible Configuration Management
 
 Infrastructure as Code project using Ansible for automated server configuration.
 
@@ -33,20 +23,20 @@ Infrastructure as Code project using Ansible for automated server configuration.
 
 <div dir="rtl">
 
-### پروژه ۱: اسکریپت Bash برای مانیتورینگ سیستم و راه‌اندازی Nginx
+### اسکریپت Bash برای مانیتورینگ سیستم و راه‌اندازی Nginx
 
 یک اسکریپت Bash جامع که وضعیت سیستم را بررسی کرده و نصب و راه‌اندازی Nginx را خودکار می‌کند.
 
 ---
 
-### پروژه ۲: پیاده‌سازی Docker و Docker Compose
+### پیاده‌سازی Docker و Docker Compose
 
 پروژه کانتینرسازی که مفاهیم پایه Docker و orchestration چند سرویسه را نشان می‌دهد.
 چند کانتینره
 
 ---
 
-### پروژه ۳: Ansible برای مدیریت پیکربندی
+### استفاده از Ansible برای مدیریت پیکربندی
 
 پروژه زیرساخت به عنوان کد با استفاده از Ansible برای پیکربندی خودکار سرور.
 
@@ -54,7 +44,7 @@ Infrastructure as Code project using Ansible for automated server configuration.
 
 ### نکته درباره چالش‌ها
 
-در هر دایرکتوری پروژه یک README دقیق وجود دارد که چالش‌های خاص پیاده‌سازی و راه‌حل‌های آنها را مستند کرده است. این Insights زمینه واقعی و رویکردهای عیب‌یابی برای سناریوهای مشابه را فراهم می‌کند.
+در هر دایرکتوری پروژه یک README دقیق وجود دارد که چالش‌های خاص پیاده‌سازی و راه‌حل‌های آنها را مستند کرده است.
 
 </div>
 
